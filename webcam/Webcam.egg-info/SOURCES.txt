@@ -1,0 +1,7 @@
+setup.py
+Webcam.egg-info/PKG-INFO
+Webcam.egg-info/SOURCES.txt
+Webcam.egg-info/dependency_links.txt
+Webcam.egg-info/not-zip-safe
+Webcam.egg-info/top_level.txt
+webcam_lib/webcam.py
